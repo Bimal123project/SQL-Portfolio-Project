@@ -37,9 +37,14 @@ This is the result of the customer segmentation analysis in Power BI dashboard.
 
 
 This is the query to find the Churned customer, where churned value is 6 month older than the last ordered date from the data of 2015, 2016 and 2017.
+
+
+
 <img width="586" height="352" alt="image" src="https://github.com/user-attachments/assets/d9c10407-3530-4fff-8923-a170d18f63ea" />
 
 This is the result of the Churn analysis in Power BI dashboard.
+
+
 <img width="539" height="334" alt="image" src="https://github.com/user-attachments/assets/3869faa2-a531-43dc-8bab-a71208065678" />
 
 
